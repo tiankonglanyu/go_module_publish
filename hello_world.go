@@ -6,7 +6,7 @@ package go_module_publish
 
 import "fmt"
 
-
+/* this is second banch */
 import "github.com/tiankonglanyu/go_module_publish/child_package"
 
 func Hello(){
